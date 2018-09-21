@@ -1,3 +1,3 @@
 # dviz
 
-Source code and docimentation for DVIZ project work.
+Source code and documentation for DVIZ project work.
